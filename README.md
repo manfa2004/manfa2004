@@ -3,6 +3,12 @@
 - 🔭 I’m currently working on Python 
 - 🌱 I’m currently learning R
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manfa2004&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manfa2004&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manfa2004&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manfa2004&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manfa2004&theme=default&utcOffset=8)
 <!--
 **manfa2004/manfa2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
