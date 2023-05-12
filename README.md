@@ -1,9 +1,10 @@
- ### Hi there 👋
-💬 About Me
+### Hi there 👋
+
+### 💬 About Me
 - 🔭 I’m currently working on Python 
 - 🌱 I’m currently learning R
 
-
+### 🌱 Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manfa2004&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manfa2004&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manfa2004&theme=default)
