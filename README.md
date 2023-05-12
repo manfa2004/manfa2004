@@ -11,7 +11,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manfa2004&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manfa2004&theme=default&utcOffset=8)
 
-### solved.ac
+### 🔭 solved.ac
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=manfa)](https://solved.ac/manfa)
 <!--
