@@ -2,7 +2,7 @@
 
 ### 💬 About Me
 - 🔭 I’m currently working on Python 
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning Js
 
 ### 🌱 Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manfa2004&theme=default)
@@ -14,6 +14,8 @@
 ### 🔭 solved.ac
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=manfa)](https://solved.ac/manfa)
+
+
 <!--
 **manfa2004/manfa2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
